@@ -25,4 +25,5 @@ MLND-BobDylanWritingStyle
 
 ### Usage
 - Ensure environment is set up as above
+- Download Dataset from https://www.kaggle.com/mousehead/songlyrics
 - Run textgen.py
